@@ -3,7 +3,7 @@ This directive gives you a Bootstrap Dropdown with the power of AngularJS direct
 
 NOTE: I am currently working on a v2 of this directive with performance imporovments and removing the need for lodash. ETA: April 2015
 
-# Features
+# Features -- Modifed by pinnacle ag
 - Based on Bootstrap's dropdown.
 - jQuery is not necessary.
 - Seperated your data and the selection data. no modification to the data made.
