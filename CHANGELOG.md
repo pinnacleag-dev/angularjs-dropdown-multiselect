@@ -7,3 +7,5 @@ Version numbers correspond to `bower.json` version
 ## Bug Fixes
 
 ## Breaking Changes
+
+## Branched Features
